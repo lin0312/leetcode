@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int countSubstrings(String s) {
         if(s == null || s.length() == 0) {
             return 0;
